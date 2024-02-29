@@ -7,3 +7,4 @@ C:\Users\MEGAS\Desktop\GUI_Class\B11173201_GUI_Class\B11173201_GUI_Class\obj\Deb
 C:\Users\MEGAS\Desktop\GUI_Class\B11173201_GUI_Class\B11173201_GUI_Class\obj\Debug\B11173201_GUI_Class.csproj.CoreCompileInputs.cache
 C:\Users\MEGAS\Desktop\GUI_Class\B11173201_GUI_Class\B11173201_GUI_Class\obj\Debug\B11173201_GUI_Class.exe
 C:\Users\MEGAS\Desktop\GUI_Class\B11173201_GUI_Class\B11173201_GUI_Class\obj\Debug\B11173201_GUI_Class.pdb
+C:\Users\MEGAS\Desktop\GUI_Class\B11173201_GUI_Class\B11173201_GUI_Class\obj\Debug\B11173201_GUI_Class.Form1.resources
